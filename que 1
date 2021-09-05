@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .format {
+            border: 2px solid red;
+            width: 188px;
+            margin: auto;
+            background-color: skyblue;
+            padding: 3px 3px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="format">
+        <table>
+            <tr>
+                <th>italic</th>
+                <th>bold</th>
+                <th>emphasised</th>
+            </tr>
+            <tr>
+                <td> <i>aman</i></td>
+                <td><b>aniket</b></td>
+                <td> <em>ashwin</em>
+                </td>
+
+            </tr>
+            <tr>
+                <th>strong</th>
+                <th>deleted</th>
+                <th>inserted</th>
+            </tr>
+            <tr>
+                <td><strong>manas</strong></td>
+                <td><del>rajam</del></td>
+                <td> <ins>mani</ins> </td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+
+</html>
